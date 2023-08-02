@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1690940458,,"wq!"
+|2,0,1690954455,,"wq!"
 
 # Search String History (newest to oldest):
 
@@ -25,16 +25,33 @@
 # Registers:
 
 # File marks:
-'0  16  0  /opt/docker
-|4,48,16,0,1690940458,"/opt/docker"
+'0  16  0  /opt/test
+|4,48,16,0,1690954455,"/opt/test"
+'1  16  0  /opt/docker
+|4,49,16,0,1690940458,"/opt/docker"
 
 # Jumplist (newest first):
+-'  16  0  /opt/test
+|4,39,16,0,1690954455,"/opt/test"
+-'  1  0  /opt/test
+|4,39,1,0,1690954415,"/opt/test"
+-'  16  0  /opt/docker
+|4,39,16,0,1690940458,"/opt/docker"
 -'  16  0  /opt/docker
 |4,39,16,0,1690940458,"/opt/docker"
 -'  1  0  /opt/docker
 |4,39,1,0,1690940417,"/opt/docker"
+-'  1  0  /opt/docker
+|4,39,1,0,1690940417,"/opt/docker"
 
 # History of marks within files (newest to oldest):
+
+> /opt/test
+	*	1690954452	0
+	"	16	0
+	^	16	1
+	.	16	0
+	+	16	0
 
 > /opt/docker
 	*	1690940454	0
